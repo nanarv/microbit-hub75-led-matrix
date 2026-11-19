@@ -1,0 +1,4 @@
+_build/
+# local scratch copies of test programs (curated ones live in examples/)
+*.c.*
+.DS_Store
